@@ -7,10 +7,7 @@
   <br/>
   
   <strong>I'm a computer science enthusiast who loves to learn new languages and play with new programming paradigms :zap: </strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=JasterV&count_private=true&show_icons=true&theme=synthwave" />
 </div>
-
-+ **Stats**:
-
-![JasterV GitHub stats](https://github-readme-stats.vercel.app/api?username=JasterV&count_private=true&show_icons=true&theme=synthwave)
 
 
