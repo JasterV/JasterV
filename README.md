@@ -1,5 +1,5 @@
 
-<center><img align="center" src="https://www.rustacean.net/assets/rustacean-flat-happy.svg"></center>
+<center><img align="center" width="100" src="https://www.rustacean.net/assets/rustacean-flat-happy.svg"></center>
 <br/>
 <h3 align="center">Víctor Martínez | Software Developer | Europe, Spain</h3>
 
