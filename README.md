@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://www.rustacean.net/assets/rustacean-flat-happy.svg">
+  <img width="200" src="https://www.rustacean.net/assets/rustacean-flat-happy.svg">
 </div>
 <br/>
 <h3 style="text-align: center;">Víctor Martínez | Software Developer | Europe, Spain</h3>
