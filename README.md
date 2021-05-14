@@ -1,7 +1,7 @@
 
-<center><h1></h1></center>
+<center><img align="center" src="https://www.rustacean.net/assets/rustacean-flat-happy.svg"></center>
 <br/>
-<center><h3>Víctor Martínez | Software Developer | Europe, Spain</h3></center>
+<h3 align="center">Víctor Martínez | Software Developer | Europe, Spain</h3>
 
 I'm a computer science enthusiast who loves to learn new languages and play with new programming paradigms :zap:
 
