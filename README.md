@@ -24,8 +24,7 @@
 <img align="left" alt="Hasura" width="26px" src="https://avatars.githubusercontent.com/u/13966722?s=200&v=4" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG9.png&f=1&nofb=1" />
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.lafabriquedecode.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F04%2Fmongo_logo.png&f=1&nofb=1" />
 
