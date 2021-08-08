@@ -30,14 +30,8 @@
 
  ### :trophy: Trophies
  
-<br /> 
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  
  
  [linkedin]: https://www.linkedin.com/in/jaster-victor/
-
-
-
-
-
