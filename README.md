@@ -3,7 +3,7 @@
 ### Víctor Martínez :boy: | Software Developer :space_invader: | Barcelona, Europe :city_sunset:
 #### I'm a computer science enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> As you can see I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software with Rust!
 
-### Languages and Tools
+### :video_game: Languages and Tools
 
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" />
