@@ -27,7 +27,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Flogo-mongodb-png-mongodb-logo-png-400.png&f=1&nofb=1" />
+<img align="left" alt="MongoDB" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.lafabriquedecode.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F04%2Fmongo_logo.png&f=1&nofb=1" />
 
 <br />
 
