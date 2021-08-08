@@ -30,11 +30,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+<br />
 
- ### :trophy: Trophies
- 
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+### :trophy: Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  
  
- [linkedin]: https://www.linkedin.com/in/jaster-victor/
+[linkedin]: https://www.linkedin.com/in/jaster-victor/
