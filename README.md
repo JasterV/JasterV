@@ -1,15 +1,15 @@
-
+<div align="center">
 
 ### Víctor Martínez :boy: | Software Developer :space_invader: | Barcelona, Europe :city_sunset:
 #### I'm a computer science enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> As you can see I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software with Rust!
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="JasterV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" />
@@ -33,5 +33,5 @@
 ### :trophy: Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  
- 
+ </div>
 [linkedin]: https://www.linkedin.com/in/jaster-victor/
