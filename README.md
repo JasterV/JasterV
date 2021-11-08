@@ -28,7 +28,7 @@
 ### :trophy: Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
-### :green_heart: Donate
+### :green_heart: Contribute
  
 <a href='https://ko-fi.com/X7X26W4YR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
