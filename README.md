@@ -4,6 +4,9 @@
 #### I'm a software development enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software 🦀
 
 ### :video_game: Languages and Tools
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" />
 <img alt="Linux" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F04%2FLinux_logo.png%2Frevision%2Flatest%3Fcb%3D20120814052336&f=1&nofb=1" />
