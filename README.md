@@ -4,6 +4,7 @@
 #### I'm a software development enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software 🦀
  
  </br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&theme=gruvbox&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :trophy: Trophies
