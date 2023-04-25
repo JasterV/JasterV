@@ -11,7 +11,7 @@
 &nbsp;
 &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&custom_title=Languages&theme=gruvbox&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&exclude_repo=mongodb-intro-workshop,nodejs-firebase-template,MEMORY-CARD-GAME,Shared-Drawing-NodeJS&custom_title=Languages&theme=gruvbox&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs" />
 </a>
 
 &nbsp;
