@@ -1,7 +1,7 @@
 <div align="center">
 
-### Víctor Martínez :boy: | Software Developer :space_invader: | Catalonia, Europe :city_sunset:
-#### I'm a computer science enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software with Rust!
+### Víctor Martínez :boy: | Software Developer :space_invader: 
+#### I'm a software development enthusiast who loves to learn new languages and play with new programming paradigms :zap: <br> I love [ferris](https://rustacean.net), he helps me to develop reliable and efficient software 🦀
 
 ### :video_game: Languages and Tools
 
