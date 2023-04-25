@@ -5,6 +5,7 @@
  
  </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&theme=gruvbox&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :trophy: Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JasterV&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
