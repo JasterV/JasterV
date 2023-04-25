@@ -11,7 +11,7 @@
 &nbsp;
 &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&theme=gruvbox&hide=java,javascript,c,php,processing,html,ejs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&theme=gruvbox&lang_count=10&hide=java,javascript,c,php,processing,html,ejs" />
 </a>
 
 &nbsp;
