@@ -5,7 +5,7 @@
 
 ### :video_game: Languages and Tools
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs,css)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasterV&layout=compact&theme=gruvbox&hide_progress=true&langs_count=20&hide=java,c,php,processing,html,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1" />
