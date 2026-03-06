@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 ## :warning: I'm moving away to Codeberg :warning:
 
 I've decided to leave Github and move to the free software alternative [Codeberg](https://codeberg.org/).
