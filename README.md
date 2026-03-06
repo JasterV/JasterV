@@ -10,7 +10,8 @@ Given that Github is and will be for a long time the de-facto standard in the so
 
 I will be archiving all my work and slowly migrate to Codeberg, so for anyone interested, check my most up to date work in my [Codeberg profile](https://codeberg.org/JasterV?tab=overview)
 
-![codeberg badge](blob:https://get-it-on.codeberg.org/4598862f-8fd7-4b80-be23-6cab516354ba)
+<img width="564" height="168" alt="codeberg_badge" src="https://github.com/user-attachments/assets/8301a4b4-be27-483a-9cac-3901e06413ad" />
+
 
 <div align="center">
 
