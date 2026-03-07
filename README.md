@@ -10,7 +10,7 @@
 
 ---
 
-## :warning: I'm moving away to Codeberg :warning:
+## :warning: I'm moving away from Github :warning:
 
 I've decided to leave Github and move to the free software alternative [Codeberg](https://codeberg.org/).
 
