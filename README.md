@@ -1,4 +1,4 @@
-## 💡 I've migrated away from Github 💡
+## 💡 I've left Github
 
 I've decided to leave Github and move to the free software alternative [Codeberg](https://codeberg.org/).
 
