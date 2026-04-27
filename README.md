@@ -10,9 +10,7 @@ Given that Github is and will be for a long time the de-facto standard in the so
 
 <div align="center">
 
-<img width="564" height="168" alt="codeberg_badge" src="https://github.com/user-attachments/assets/8301a4b4-be27-483a-9cac-3901e06413ad" />
-
-*To check my most recent activity, you can find me on [Codeberg](https://codeberg.org/JasterV?tab=overview)*
+[<img width="564" height="168" alt="codeberg_badge" src="https://github.com/user-attachments/assets/8301a4b4-be27-483a-9cac-3901e06413ad" />](https://codeberg.org/JasterV?tab=overview)
 
 *Also, I've self-hosted a Forgejo instance acting as a mirror of my Codeberg projects. You can find it [here](https://git.jaster.xyz/jasterv)*
 
